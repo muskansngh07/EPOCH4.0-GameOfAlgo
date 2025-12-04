@@ -53,6 +53,6 @@ Unsupervised Learning is a type of machine learning where the model learns patte
 
   ## 👾 Note for Contribution
 
-  There are two jupyter notebooks for [K-Means](unsupervised-learning/k-means.ipynb) and [DBSCAN](unsupervised-learning/dbscan.ipynb) respectively, each of which contains comments about what you need to do. 
+  There are two jupyter notebooks for [K-Means](k-means.ipynb) and [DBSCAN](dbscan.ipynb) respectively, each of which contains comments about what you need to do. 
   Feel free to contribute, keeping in mind the guidelines. 
   
